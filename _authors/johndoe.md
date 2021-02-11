@@ -1,31 +1,31 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+name: Maza Fard
+username: mazafard
+bio: "Hi I am Maza, a Web and Software Developer."
+site: http://mazafard.ir
+avatar: mazafard.png
+email: mazafard@gmail.com
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/mazafard"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
+      url: "https://www.linkedin.com/in/mazafard"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: "https://www.youtube.com/channel/mazafard"
     - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
+      url: "https://www.facebook.com/mazafard"
     - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
+      url: "https://www.twitter.com/mazafard"
     - title: "behance"
-      url: "https://behance.com/johndoe"
+      url: "https://behance.com/mazafard"
     - title: "instagram"
-      url: "https://instagram.com/johndoe"
+      url: "https://instagram.com/mazafard"
     - title: "medium"
-      url: "https://medium.com/johndoe"
+      url: "https://medium.com/mazafard"
     - title: "telegram"
-      url: "https://telegram.com/johndoe"
+      url: "https://telegram.com/mazafard"
     - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
+      url: "https://dribbble.com/mazafard"
     - title: "flickr"
-      url: "https://flickr.com/johndoe"
+      url: "https://flickr.com/mazafard"
 ---
