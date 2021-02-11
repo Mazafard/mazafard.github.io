@@ -17,10 +17,6 @@ urls:
     url: /shop
   - text: Contact
     url: /contact
-  - text: Styleguide
-    url: /styleguide
-  - text: Get Started
-    url: /get-started
 author_logo: profile.png
 author: Maza Fard
 author_bio: 'Hi, my name is Maza Fard.'
