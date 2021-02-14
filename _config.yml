@@ -27,13 +27,13 @@ typewrite-text: >-
   I'm Developer
 author_work_experiences:
   - company_name: Jobja
-    company_logo: google.png
+    company_logo: jobja.png
     company_url: 'https://joba.com'
     designation: Software Engineer
     description: Worked on various Products
     visibility: true
   - company_name: Irantalent
-    company_logo: microsoft.png
+    company_logo: irantalent.png
     company_url: 'https://irantalent.com'
     designation: Software Developer
     description: Worked on various Products
