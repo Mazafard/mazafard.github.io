@@ -46,12 +46,12 @@ author_education_details:
     description: Bachelor of Technology
     visibility: false
 author_project_details:
-  - project_thumbnail: gamershub.png
+  - project_thumbnail: tao.jpg
     project_title: TAO
     project_description: A Website built for Architecture Project
     project_url: 'https://transformativearchitectureoffice.com/'
     visibility: true
-  - project_thumbnail: hack4r.PNG
+  - project_thumbnail: ibex.jpg
     project_title: Ibex
     project_description: A Platform built for Sellers
     project_url: 'https://ibex.am'
