@@ -1,5 +1,5 @@
 title: Mazafard
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: Software Developer
 description: >-
   I'm a developer
 url: ''
@@ -19,7 +19,7 @@ urls:
     url: /contact
 author_logo: profile.png
 author: Maza Fard
-author_bio: 'Hi, my name is Maza Fard.'
+author_bio: 'My name is Mohammadreza Asadollahifard.'
 author_email: mazafard@gmail.com
 author_location: Iran
 author_website_url: 'https://mazafard.ir'
@@ -70,7 +70,7 @@ hyvor_talk_website_id: 476
 wakatime_username: mazafard
 mailchimp_form_url: >-
   https://
-formspree_email: mazafard@gmail.com
+formspree_email: f/myybakjn
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
