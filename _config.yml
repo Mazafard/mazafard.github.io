@@ -26,9 +26,9 @@ author_website_url: 'https://mazafard.ir'
 typewrite-text: >-
   I'm Developer
 author_work_experiences:
-  - company_name: *****
+  - company_name: -----
     company_logo: jobja.png
-    company_url: 'https://*****.com'
+    company_url: ''
     designation: Software Engineer
     description: Worked on various Products
     visibility: true
