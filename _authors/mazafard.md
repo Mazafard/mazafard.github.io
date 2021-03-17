@@ -1,9 +1,9 @@
 ---
 name: Maza Fard
-username: mazafard
+username: Mazafard
 bio: "Hi I am Maza, a Web and Software Developer."
 site: http://mazafard.ir
-avatar: mazafard.png
+avatar: /assets/img/posts/ydu1-u0c_400x400.jpg
 email: mazafard@gmail.com
 social:
     - title: "github"
